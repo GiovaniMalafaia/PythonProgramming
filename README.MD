@@ -52,6 +52,31 @@ git clone https://github.com/GiovaniMalafaia/PythonProgramming.git
 ```
 ---
 
+## 🔑 Configuração de Credenciais
+1. API de Câmbio
+
+Este projeto depende de uma API de câmbio para extrair as cotações diárias.
+Você deve criar uma conta em um provedor de API de câmbio (ex.: ExchangeRate API
+, CurrencyFreaks
+, Open Exchange Rates
+) e obter sua API Key.
+
+No arquivo .env, configure:
+
+```
+chave_api=sua_chave_api_cambio
+```
+
+2. LLM (ChatGPT ou outro provedor)
+
+Para gerar insights em linguagem natural, este projeto utiliza um LLM (Large Language Model).
+Se for usar o ChatGPT, crie uma conta no OpenAI
+, gere uma chave de API e adicione no .env:
+
+```
+openai_api_key=sua_chave_openai
+```
+
 ## ▶️ Como Executar
 
 Na raiz do projeto, basta rodar:
