@@ -32,7 +32,7 @@ Esta pasta contém os scripts responsáveis pelo **processamento dos dados em ca
   - Passa os dados para o ChatGPT (LLM).
   - Gera **insights em linguagem natural**.
   - Salva em arquivo `.txt` com timestamp.
-
+```
 ---
 
 ## 🔎 Estrutura das Camadas
@@ -44,3 +44,20 @@ Esta pasta contém os scripts responsáveis pelo **processamento dos dados em ca
 - Insights (txt) → Explicações executivas para usuários de negócio  
 
 ---
+
+## 📊 Dashboard Streamlit
+
+Após rodar todo o pipeline, você pode visualizar os dados e gráficos de taxa de câmbio usando **Streamlit**.  
+O dashboard lê diretamente do PostgreSQL e apresenta:
+
+- Tabela interativa com os últimos registros.
+- Gráficos de evolução das principais moedas.
+- Resumos de insights do dia.
+
+### Como executar:
+
+1. Certifique-se de estar na pasta do projeto.
+2. Rode o comando:
+
+```bash
+streamlit run dashboard.py
