@@ -1,0 +1,32 @@
+2025-09-06 21:20:29 - INFO - Inicio do processo de transformacao das taxas.
+2025-09-06 21:20:29 - INFO - 
+2025-09-06 21:20:29 - INFO - Usando arquivo RAW: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\raw\2025-09-06.json
+2025-09-06 21:20:29 - INFO - Arquivo existente removido: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\silver\2025-09-06.json
+2025-09-06 21:20:29 - INFO - Transformacao concluida. Arquivo salvo em: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\silver\2025-09-06.json
+2025-09-06 21:20:29 - INFO - Fim do processo de transformacao das taxas.
+2025-09-06 21:21:21 - INFO - 
+2025-09-06 21:21:21 - INFO - Inicio do processo de transformacao das taxas.
+2025-09-06 21:21:21 - INFO - Usando arquivo RAW: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\raw\2025-09-06.json
+2025-09-06 21:21:21 - INFO - Arquivo existente removido: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\silver\2025-09-06.json
+2025-09-06 21:21:21 - INFO - Transformacao concluida. Arquivo salvo em: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\silver\2025-09-06.json
+2025-09-06 21:21:21 - INFO - Fim do processo de transformacao das taxas.
+2025-09-06 21:23:33 - INFO - 
+2025-09-06 21:23:33 - INFO - Inicio do processo de transformacao das taxas.
+2025-09-06 21:23:33 - INFO - Obtendo ultimo arquivo da pasta RAW...
+2025-09-06 21:23:33 - INFO - Usando arquivo RAW: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\raw\2025-09-06.json
+2025-09-06 21:23:33 - INFO - Arquivo existente removido: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\silver\2025-09-06.json
+2025-09-06 21:23:33 - INFO - Fazendo tratamento dos registros...
+2025-09-06 21:23:33 - INFO - Realizando normalizacao das datas...
+2025-09-06 21:23:33 - INFO - Realizando normalizacao das datas...
+2025-09-06 21:23:33 - INFO - Transformacao concluida. Arquivo salvo em: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\silver\2025-09-06.json
+2025-09-06 21:23:33 - INFO - Fim do processo de transformacao das taxas.
+2025-09-06 21:41:22 - INFO - 
+2025-09-06 21:41:22 - INFO - Inicio do processo de transformacao das taxas.
+2025-09-06 21:41:22 - INFO - Obtendo ultimo arquivo da pasta RAW...
+2025-09-06 21:41:22 - INFO - Usando arquivo RAW: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\raw\2025-09-06.json
+2025-09-06 21:41:22 - INFO - Arquivo existente removido: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\silver\2025-09-06.json
+2025-09-06 21:41:22 - INFO - Fazendo tratamento dos registros...
+2025-09-06 21:41:22 - INFO - Realizando normalizacao das datas...
+2025-09-06 21:41:22 - INFO - Realizando normalizacao das datas...
+2025-09-06 21:41:22 - INFO - Transformacao concluida. Arquivo salvo em: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\silver\2025-09-06.json
+2025-09-06 21:41:22 - INFO - Fim do processo de transformacao das taxas.

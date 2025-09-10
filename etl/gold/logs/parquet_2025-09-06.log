@@ -1,0 +1,24 @@
+2025-09-06 21:26:48 - INFO - 
+2025-09-06 21:26:48 - INFO - Início do processo de geração Gold.
+2025-09-06 21:26:48 - INFO - Listando arquivos da pasta SILVER...
+2025-09-06 21:26:48 - INFO - Usando arquivo SILVER: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\silver\2025-09-06.json
+2025-09-06 21:26:48 - INFO - Convertendo arquivo json para um dataframe...
+2025-09-06 21:26:48 - INFO - Arquivo existente removido: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\gold\2025-09-06.parquet
+2025-09-06 21:26:48 - INFO - Arquivo salvo em: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\gold\2025-09-06.parquet
+2025-09-06 21:26:48 - INFO - Fim do processo de geração Gold.
+2025-09-06 21:27:26 - INFO - 
+2025-09-06 21:27:26 - INFO - Inicio do processo de geracao Gold.
+2025-09-06 21:27:26 - INFO - Listando arquivos da pasta SILVER...
+2025-09-06 21:27:26 - INFO - Usando arquivo SILVER: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\silver\2025-09-06.json
+2025-09-06 21:27:26 - INFO - Convertendo arquivo json para um dataframe...
+2025-09-06 21:27:26 - INFO - Arquivo existente removido: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\gold\2025-09-06.parquet
+2025-09-06 21:27:26 - INFO - Arquivo salvo em: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\gold\2025-09-06.parquet
+2025-09-06 21:27:26 - INFO - Fim do processo de geracao Gold.
+2025-09-06 21:41:22 - INFO - 
+2025-09-06 21:41:22 - INFO - Inicio do processo de geracao Gold.
+2025-09-06 21:41:22 - INFO - Listando arquivos da pasta SILVER...
+2025-09-06 21:41:22 - INFO - Usando arquivo SILVER: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\silver\2025-09-06.json
+2025-09-06 21:41:22 - INFO - Convertendo arquivo json para um dataframe...
+2025-09-06 21:41:22 - INFO - Arquivo existente removido: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\gold\2025-09-06.parquet
+2025-09-06 21:41:22 - INFO - Arquivo salvo em: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\gold\2025-09-06.parquet
+2025-09-06 21:41:22 - INFO - Fim do processo de geracao Gold.

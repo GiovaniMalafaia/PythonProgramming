@@ -1,0 +1,1306 @@
+[
+    {
+        "moeda": "USD",
+        "taxa": 1,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "AED",
+        "taxa": 3.6725,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "AFN",
+        "taxa": 68.3283,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "ALL",
+        "taxa": 82.7218,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "AMD",
+        "taxa": 382.6216,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "ANG",
+        "taxa": 1.79,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "AOA",
+        "taxa": 920.8606,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "ARS",
+        "taxa": 1418.67,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "AUD",
+        "taxa": 1.5176,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "AWG",
+        "taxa": 1.79,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "AZN",
+        "taxa": 1.7018,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "BAM",
+        "taxa": 1.6681,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "BBD",
+        "taxa": 2.0,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "BDT",
+        "taxa": 121.7538,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "BGN",
+        "taxa": 1.6678,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "BHD",
+        "taxa": 0.376,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "BIF",
+        "taxa": 2970.5923,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "BMD",
+        "taxa": 1.0,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "BND",
+        "taxa": 1.2822,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "BOB",
+        "taxa": 6.9374,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "BRL",
+        "taxa": 5.4212,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "BSD",
+        "taxa": 1.0,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "BTN",
+        "taxa": 88.2145,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "BWP",
+        "taxa": 13.7197,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "BYN",
+        "taxa": 3.234,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "BZD",
+        "taxa": 2.0,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "CAD",
+        "taxa": 1.3833,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "CDF",
+        "taxa": 2878.4332,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "CHF",
+        "taxa": 0.7964,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "CLP",
+        "taxa": 971.3739,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "CNY",
+        "taxa": 7.1241,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "COP",
+        "taxa": 3950.6662,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "CRC",
+        "taxa": 505.3626,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "CUP",
+        "taxa": 24.0,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "CVE",
+        "taxa": 94.0434,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "CZK",
+        "taxa": 20.7587,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "DJF",
+        "taxa": 177.721,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "DKK",
+        "taxa": 6.3674,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "DOP",
+        "taxa": 63.667,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "DZD",
+        "taxa": 129.7769,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "EGP",
+        "taxa": 48.0013,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "ERN",
+        "taxa": 15.0,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "ETB",
+        "taxa": 141.6466,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "EUR",
+        "taxa": 0.853,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "FJD",
+        "taxa": 2.2395,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "FKP",
+        "taxa": 0.7387,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "FOK",
+        "taxa": 6.3673,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "GBP",
+        "taxa": 0.7388,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "GEL",
+        "taxa": 2.6924,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "GGP",
+        "taxa": 0.7387,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "GHS",
+        "taxa": 12.2074,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "GIP",
+        "taxa": 0.7387,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "GMD",
+        "taxa": 72.5163,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "GNF",
+        "taxa": 8687.1638,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "GTQ",
+        "taxa": 7.6745,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "GYD",
+        "taxa": 209.1599,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "HKD",
+        "taxa": 7.7884,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "HNL",
+        "taxa": 26.2181,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "HRK",
+        "taxa": 6.4261,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "HTG",
+        "taxa": 130.8794,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "HUF",
+        "taxa": 335.1966,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "IDR",
+        "taxa": 16460.4362,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "ILS",
+        "taxa": 3.3447,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "IMP",
+        "taxa": 0.7387,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "INR",
+        "taxa": 88.2133,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "IQD",
+        "taxa": 1307.9512,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "IRR",
+        "taxa": 42423.4499,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "ISK",
+        "taxa": 122.1272,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "JEP",
+        "taxa": 0.7387,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "JMD",
+        "taxa": 160.2192,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "JOD",
+        "taxa": 0.709,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "JPY",
+        "taxa": 147.2252,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "KES",
+        "taxa": 129.1261,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "KGS",
+        "taxa": 87.446,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "KHR",
+        "taxa": 4009.7984,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "KID",
+        "taxa": 1.5172,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "KMF",
+        "taxa": 419.5922,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "KRW",
+        "taxa": 1387.6219,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "KWD",
+        "taxa": 0.3053,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "KYD",
+        "taxa": 0.8333,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "KZT",
+        "taxa": 536.6686,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "LAK",
+        "taxa": 21709.6601,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "LBP",
+        "taxa": 89500.0,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "LKR",
+        "taxa": 302.0352,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "LRD",
+        "taxa": 199.8836,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "LSL",
+        "taxa": 17.5258,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "LYD",
+        "taxa": 5.4103,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "MAD",
+        "taxa": 9.0101,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "MDL",
+        "taxa": 16.6424,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "MGA",
+        "taxa": 4454.5712,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "MKD",
+        "taxa": 52.6197,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "MMK",
+        "taxa": 2103.3996,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "MNT",
+        "taxa": 3567.4386,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "MOP",
+        "taxa": 8.022,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "MRU",
+        "taxa": 39.8339,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "MUR",
+        "taxa": 46.0678,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "MVR",
+        "taxa": 15.4387,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "MWK",
+        "taxa": 1742.489,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "MXN",
+        "taxa": 18.6234,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "MYR",
+        "taxa": 4.2063,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "MZN",
+        "taxa": 63.5948,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "NAD",
+        "taxa": 17.5258,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "NGN",
+        "taxa": 1506.3857,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "NIO",
+        "taxa": 36.8122,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "NOK",
+        "taxa": 9.9771,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "NPR",
+        "taxa": 141.1432,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "NZD",
+        "taxa": 1.6863,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "OMR",
+        "taxa": 0.3845,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "PAB",
+        "taxa": 1.0,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "PEN",
+        "taxa": 3.5073,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "PGK",
+        "taxa": 4.2156,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "PHP",
+        "taxa": 57.0235,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "PKR",
+        "taxa": 283.7733,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "PLN",
+        "taxa": 3.6254,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "PYG",
+        "taxa": 7159.5773,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "QAR",
+        "taxa": 3.64,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "RON",
+        "taxa": 4.3204,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "RSD",
+        "taxa": 99.8023,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "RUB",
+        "taxa": 83.5865,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "RWF",
+        "taxa": 1451.7616,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "SAR",
+        "taxa": 3.75,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "SBD",
+        "taxa": 8.2826,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "SCR",
+        "taxa": 14.6496,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "SDG",
+        "taxa": 449.0466,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "SEK",
+        "taxa": 9.3759,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "SGD",
+        "taxa": 1.2822,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "SHP",
+        "taxa": 0.7387,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "SLE",
+        "taxa": 23.2903,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "SLL",
+        "taxa": 23290.2526,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "SOS",
+        "taxa": 571.7498,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "SRD",
+        "taxa": 39.0245,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "SSP",
+        "taxa": 4550.8829,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "STN",
+        "taxa": 20.8957,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "SYP",
+        "taxa": 13107.7234,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "SZL",
+        "taxa": 17.5258,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "THB",
+        "taxa": 31.7141,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "TJS",
+        "taxa": 9.4645,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "TMT",
+        "taxa": 3.5,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "TND",
+        "taxa": 2.9033,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "TOP",
+        "taxa": 2.3606,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "TRY",
+        "taxa": 41.2689,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "TTD",
+        "taxa": 6.7717,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "TVD",
+        "taxa": 1.5172,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "TWD",
+        "taxa": 30.289,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "TZS",
+        "taxa": 2473.4492,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "UAH",
+        "taxa": 41.1554,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "UGX",
+        "taxa": 3482.1374,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "UYU",
+        "taxa": 40.0394,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "UZS",
+        "taxa": 12314.5092,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "VES",
+        "taxa": 156.3739,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "VND",
+        "taxa": 26252.5343,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "VUV",
+        "taxa": 118.6706,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "WST",
+        "taxa": 2.7465,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "XAF",
+        "taxa": 559.4562,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "XCD",
+        "taxa": 2.7,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "XCG",
+        "taxa": 1.79,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "XDR",
+        "taxa": 0.7281,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "XOF",
+        "taxa": 559.4562,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "XPF",
+        "taxa": 101.7765,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "YER",
+        "taxa": 240.0213,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "ZAR",
+        "taxa": 17.5264,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "ZMW",
+        "taxa": 24.1148,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    },
+    {
+        "moeda": "ZWL",
+        "taxa": 26.7103,
+        "base_currency": "USD",
+        "timestamp": 1757462401,
+        "time_last_update_utc": "2025-09-10 00:00:01",
+        "time_next_update_utc": "2025-09-11 00:00:01"
+    }
+]

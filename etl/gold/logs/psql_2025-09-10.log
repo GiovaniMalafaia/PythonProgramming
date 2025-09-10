@@ -1,0 +1,6 @@
+2025-09-10 10:43:40 - INFO - 
+2025-09-10 10:43:40 - INFO - Inicio do processo de insercao de registros no PostgreSQL.
+2025-09-10 10:43:40 - INFO - Lendo arquivo Parquet: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\etl\gold\2025-09-10.parquet
+2025-09-10 10:43:41 - INFO - Conexao realizada com sucesso no banco PythonProgramming.
+2025-09-10 10:43:45 - INFO - 163 registros inseridos com sucesso na tabela public.taxa_cambio!
+2025-09-10 10:43:45 - INFO - Fim do processo de insercao de registros no PostgreSQL.

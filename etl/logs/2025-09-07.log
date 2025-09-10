@@ -1,0 +1,18 @@
+2025-09-07 15:44:36 - INFO - 
+2025-09-07 15:44:36 - INFO - Início da execucao do pipeline completo
+2025-09-07 15:44:36 - INFO - Iniciando arquivo Extract
+2025-09-07 15:44:37 - INFO - Iniciando arquivo Transform
+2025-09-07 15:44:38 - INFO - Iniciando arquivo Load
+2025-09-07 15:44:38 - INFO - Iniciando arquivo LoadPostgreSQL
+2025-09-07 15:44:42 - INFO - Fim da execucao do pipeline completo
+2025-09-07 15:46:16 - INFO - 
+2025-09-07 15:46:16 - INFO - Início da execucao do pipeline completo
+2025-09-07 15:46:16 - INFO - Iniciando arquivo Extract
+2025-09-07 15:46:16 - INFO - Arquivo Extract finalizado
+2025-09-07 15:46:16 - INFO - Iniciando arquivo Transform
+2025-09-07 15:46:16 - INFO - Arquivo Transform finalizado
+2025-09-07 15:46:16 - INFO - Iniciando arquivo Load
+2025-09-07 15:46:17 - INFO - Arquivo Load finalizado
+2025-09-07 15:46:17 - INFO - Iniciando arquivo LoadPostgreSQL
+2025-09-07 15:46:21 - INFO - Arquivo LoadPostgreSQL finalizado
+2025-09-07 15:46:21 - INFO - Fim da execucao do pipeline completo

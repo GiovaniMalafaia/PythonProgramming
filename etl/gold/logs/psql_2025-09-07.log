@@ -1,0 +1,27 @@
+2025-09-07 15:41:32 - INFO - 
+2025-09-07 15:41:32 - INFO - Inicio do processo de insercao de registros no PostgreSQL.
+2025-09-07 15:41:32 - INFO - Lendo arquivo Parquet: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\gold\2025-09-06.parquet
+2025-09-07 15:41:32 - INFO - Conexao realizada com sucesso no banco PythonProgramming.
+2025-09-07 15:41:35 - INFO - Tabela public.taxa_cambio truncada com sucesso.
+2025-09-07 15:41:36 - INFO - 163 registros inseridos com sucesso na tabela public.taxa_cambio!
+2025-09-07 15:41:36 - INFO - Fim do processo de insercao de registros no PostgreSQL.
+2025-09-07 15:44:39 - INFO - 
+2025-09-07 15:44:39 - INFO - Inicio do processo de insercao de registros no PostgreSQL.
+2025-09-07 15:44:39 - INFO - Lendo arquivo Parquet: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\etl\gold\2025-09-07.parquet
+2025-09-07 15:44:39 - INFO - Conexao realizada com sucesso no banco PythonProgramming.
+2025-09-07 15:44:42 - INFO - Tabela public.taxa_cambio truncada com sucesso.
+2025-09-07 15:44:42 - INFO - 163 registros inseridos com sucesso na tabela public.taxa_cambio!
+2025-09-07 15:44:42 - INFO - Fim do processo de insercao de registros no PostgreSQL.
+2025-09-07 15:46:18 - INFO - 
+2025-09-07 15:46:18 - INFO - Inicio do processo de insercao de registros no PostgreSQL.
+2025-09-07 15:46:18 - INFO - Lendo arquivo Parquet: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\etl\gold\2025-09-07.parquet
+2025-09-07 15:46:18 - INFO - Conexao realizada com sucesso no banco PythonProgramming.
+2025-09-07 15:46:20 - INFO - Tabela public.taxa_cambio truncada com sucesso.
+2025-09-07 15:46:20 - INFO - 163 registros inseridos com sucesso na tabela public.taxa_cambio!
+2025-09-07 15:46:21 - INFO - Fim do processo de insercao de registros no PostgreSQL.
+2025-09-07 15:55:15 - INFO - 
+2025-09-07 15:55:15 - INFO - Inicio do processo de insercao de registros no PostgreSQL.
+2025-09-07 15:55:15 - INFO - Lendo arquivo Parquet: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\etl\gold\2025-09-07.parquet
+2025-09-07 15:55:15 - INFO - Conexao realizada com sucesso no banco PythonProgramming.
+2025-09-07 15:55:18 - INFO - 163 registros inseridos com sucesso na tabela public.taxa_cambio!
+2025-09-07 15:55:18 - INFO - Fim do processo de insercao de registros no PostgreSQL.

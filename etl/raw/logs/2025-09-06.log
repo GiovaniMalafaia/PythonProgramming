@@ -1,0 +1,20 @@
+2025-09-06 21:16:38 - INFO - Inicio do processo de coleta de taxas.
+2025-09-06 21:16:38 - INFO - Arquivo existente removido: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\raw\2025-09-06.json
+2025-09-06 21:16:38 - INFO - Iniciando requisicao para URL: https://v6.exchangerate-api.com/v6/518dced57daa86762bca158f/latest/USD
+2025-09-06 21:16:38 - INFO - Requisicao bem-sucedida.
+2025-09-06 21:16:38 - INFO - Arquivo 'c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\raw\2025-09-06.json' salvo com sucesso!
+2025-09-06 21:16:38 - INFO - Fim do processo de coleta de taxas.
+2025-09-06 21:18:08 - INFO - 
+2025-09-06 21:18:08 - INFO - Inicio do processo de coleta de taxas.
+2025-09-06 21:18:08 - INFO - Arquivo existente removido: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\raw\2025-09-06.json
+2025-09-06 21:18:08 - INFO - Iniciando requisicao para URL: https://v6.exchangerate-api.com/v6/518dced57daa86762bca158f/latest/USD
+2025-09-06 21:18:08 - INFO - Requisicao bem-sucedida.
+2025-09-06 21:18:08 - INFO - Arquivo 'c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\raw\2025-09-06.json' salvo com sucesso!
+2025-09-06 21:18:08 - INFO - Fim do processo de coleta de taxas.
+2025-09-06 21:41:21 - INFO - 
+2025-09-06 21:41:21 - INFO - Inicio do processo de coleta de taxas.
+2025-09-06 21:41:21 - INFO - Arquivo existente removido: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\raw\2025-09-06.json
+2025-09-06 21:41:21 - INFO - Iniciando requisicao para URL: https://v6.exchangerate-api.com/v6/518dced57daa86762bca158f/latest/USD
+2025-09-06 21:41:22 - INFO - Requisicao bem-sucedida.
+2025-09-06 21:41:22 - INFO - Arquivo 'c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho\raw\2025-09-06.json' salvo com sucesso!
+2025-09-06 21:41:22 - INFO - Fim do processo de coleta de taxas.
