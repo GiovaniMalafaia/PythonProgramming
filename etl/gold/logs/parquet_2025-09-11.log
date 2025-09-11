@@ -1,0 +1,7 @@
+2025-09-11 20:14:28 - INFO - 
+2025-09-11 20:14:28 - INFO - Inicio do processo de geracao Gold.
+2025-09-11 20:14:28 - INFO - Listando arquivos da pasta SILVER...
+2025-09-11 20:14:28 - INFO - Usando arquivo SILVER: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho_Taxas\PythonProgramming\etl\silver\2025-09-11.json
+2025-09-11 20:14:28 - INFO - Convertendo arquivo json para um dataframe...
+2025-09-11 20:14:29 - INFO - Arquivo salvo em: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho_Taxas\PythonProgramming\etl\gold\2025-09-11.parquet
+2025-09-11 20:14:29 - INFO - Fim do processo de geracao Gold.

@@ -1,0 +1,6 @@
+2025-09-11 20:14:27 - INFO - 
+2025-09-11 20:14:27 - INFO - Inicio do processo de coleta de taxas.
+2025-09-11 20:14:27 - INFO - Iniciando requisicao para URL: https://v6.exchangerate-api.com/v6/518dced57daa86762bca158f/latest/USD
+2025-09-11 20:14:27 - INFO - Requisicao bem-sucedida.
+2025-09-11 20:14:27 - INFO - Arquivo 'c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho_Taxas\PythonProgramming\etl\raw\2025-09-11.json' salvo com sucesso!
+2025-09-11 20:14:27 - INFO - Fim do processo de coleta de taxas.

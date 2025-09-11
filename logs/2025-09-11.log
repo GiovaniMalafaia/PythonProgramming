@@ -1,0 +1,13 @@
+2025-09-11 20:14:26 - INFO - 
+2025-09-11 20:14:26 - INFO - Inicio da execucao do pipeline completo
+2025-09-11 20:14:26 - INFO - Iniciando arquivo Extract
+2025-09-11 20:14:27 - INFO - Arquivo Extract finalizado
+2025-09-11 20:14:27 - INFO - Iniciando arquivo Transform
+2025-09-11 20:14:28 - INFO - Arquivo Transform finalizado
+2025-09-11 20:14:28 - INFO - Iniciando arquivo Load
+2025-09-11 20:14:29 - INFO - Arquivo Load finalizado
+2025-09-11 20:14:29 - INFO - Iniciando arquivo LoadPostgreSQL
+2025-09-11 20:14:34 - INFO - Arquivo LoadPostgreSQL finalizado
+2025-09-11 20:14:34 - INFO - Iniciando arquivo InsightsAI
+2025-09-11 20:14:49 - INFO - Arquivo InsightsAI finalizado
+2025-09-11 20:14:49 - INFO - Fim da execucao do pipeline completo
