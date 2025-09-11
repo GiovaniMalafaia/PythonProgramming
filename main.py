@@ -1,4 +1,4 @@
-import os
+import os, sys
 from datetime import datetime
 import logging
 import subprocess
@@ -35,7 +35,7 @@ for etl in pipeline:
         print(f"\nIniciando arquivo {arquivo}")
         logging.info(f"Iniciando arquivo {arquivo}")
 
-        subprocess.run(['python', etl], check=True)
+        subprocess.run(['python', etl], stdout=sys.stdout, stderr=subprocess.PIPE, text=True, check=True)
 
         print(f"Arquivo {arquivo} finalizado")
         logging.info(f"Arquivo {arquivo} finalizado")
