@@ -16,3 +16,9 @@
 2025-09-11 20:14:48,889 - INFO - Insight gerado com sucesso.
 2025-09-11 20:14:48,889 - INFO - Insight salvo em arquivo: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho_Taxas\PythonProgramming\etl\gold\insight_2025-09-11.txt
 2025-09-11 20:14:48,889 - INFO - Fim do processo de geração de insights com LLM
+2025-09-11 20:23:04,671 - INFO - Início do processo de geração de insights com LLM
+2025-09-11 20:23:07,662 - INFO - 100 registros carregados para análise.
+2025-09-11 20:23:20,749 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-11 20:23:20,759 - INFO - Insight gerado com sucesso.
+2025-09-11 20:23:20,759 - INFO - Insight salvo em arquivo: c:\Users\giovani.rueda\Desktop\Engenharia_Dados\Python_Programming\Trabalho_Taxas\PythonProgramming\etl\gold\insight_2025-09-11.txt
+2025-09-11 20:23:20,759 - INFO - Fim do processo de geração de insights com LLM
